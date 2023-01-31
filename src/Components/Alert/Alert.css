@@ -1,0 +1,25 @@
+.alert {
+    display: flex;
+    align-items: flex-start;
+    padding: 1rem;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-size: 1rem;
+    color: #1A425E;
+  }
+
+  
+  .alert h3 {
+    margin-left: 1rem;
+    font-weight: bold;
+  }
+  
+  .alert p {
+    margin-left: 1rem;
+    font-weight: normal;
+  }
+  
+  .alert__icon i{
+    font-size: 25px;
+    margin-top:14px;
+  }

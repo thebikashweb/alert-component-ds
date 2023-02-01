@@ -1,4 +1,4 @@
-## Design and developer a custom alert component
+## Design and develope a custom alert component
 
 ## [Video Tutorial](https://youtu.be/K2ns8_jGkYQ)
 
